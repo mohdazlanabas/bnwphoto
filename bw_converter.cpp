@@ -1,4 +1,4 @@
-#include <opencv2/opencv.hpp>
+#include </opt/homebrew/opt/opencv/include/opencv4/opencv2/opencv.hpp>
 #include <iostream>
 #include <fstream>
 #include <sys/stat.h>
